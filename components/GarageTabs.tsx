@@ -14,12 +14,12 @@ import Accordion from 'react-native-collapsible/Accordion';
 
 const SECTIONS = [
   {
-    title: 'First',
-    content: 'Lorem ipsum...',
+    title: 'Shelby GT500',
+    content: 'FAST AF, may not handle too well though.',
   },
   {
-    title: 'Second',
-    content: 'Lorem ipsum...',
+    title: 'Shelby GT350R',
+    content: 'VOODOO ENGINE, Not as fast as GT500 though.',
   },
 ];
 
